@@ -1,6 +1,6 @@
 # oo7 AI Calling Platform
 
-![oo7 AI Calling Platform](https://oo7ai.com/assets/images/oo7-banner.png)
+![oo7 AI Calling Platform](https://www.oo7ai.com/images/logo/logo.png)
 
 [![Website](https://img.shields.io/badge/Website-oo7ai.com-blue)](https://oo7ai.com)
 [![Demo](https://img.shields.io/badge/Demo-Try%20Now-green)](https://oo7ai.com/demo)
