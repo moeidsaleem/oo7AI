@@ -1,6 +1,6 @@
 # oo7 AI Calling Platform
 
-![oo7 AI Calling Platform](https://www.oo7ai.com/images/logo/logo.png)
+![oo7 AI Calling Platform](https://media.licdn.com/dms/image/v2/D4D3DAQGyNH0AZIfa3A/image-scale_191_1128/B4DZWDGr3_HYAg-/0/1741661326107/oo7ai_ai_call_centers_platform_cover?e=1742666400&v=beta&t=fwY0SKtrvjQbMXKICfVyoTRabfS0FjYIOcnK0uAxKWo)
 
 [![Website](https://img.shields.io/badge/Website-oo7ai.com-blue)](https://oo7ai.com)
 [![Demo](https://img.shields.io/badge/Demo-Try%20Now-green)](https://oo7ai.com/demo)
@@ -13,7 +13,7 @@ oo7 AI revolutionizes business communication with hyper-realistic AI voice agent
 
 ### 🔥 Why Businesses Choose oo7 AI
 
-- **Ultra-Realistic Voice Technology**: Our proprietary voice synthesis creates natural, emotion-rich conversations that customers can't distinguish from human agents
+- **Ultra-Realistic Voice Technology**: Our proprietary voice synthesis creates natural, emotion-rich conversations that customers can't distinguish from human agents using Sesame AI.
 - **Industry-Specific Solutions**: Pre-built workflows optimized for various sectors with domain-specific knowledge
 - **Scalable Communication**: Handle thousands of simultaneous calls without quality degradation
 - **24/7 Availability**: Provide round-the-clock service without staffing concerns
